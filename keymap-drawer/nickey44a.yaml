@@ -26,17 +26,17 @@ layers:
   - '-'
   - '-'
   - LSHFT
-  - Z
-  - X
-  - C
-  - V
+  - {t: Z, h: LEFT SHIFT}
+  - {t: X, h: LEFT ALT}
+  - {t: C, h: LEFT CONTROL}
+  - {t: V, h: LEFT SHIFT}
   - B
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - N
-  - M
-  - ','
-  - .
+  - {t: M, h: LEFT SHIFT}
+  - {t: ',', h: LEFT CONTROL}
+  - {t: ., h: LEFT ALT}
   - /
   - '='
   - {t: TAB, h: '1'}
