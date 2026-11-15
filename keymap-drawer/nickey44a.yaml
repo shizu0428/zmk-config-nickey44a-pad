@@ -43,7 +43,7 @@ layers:
   - {t: SPACE, h: '2'}
   - '&mkp MB1'
   - BSPC
-  - RET
+  - {t: ENTER, h: '3'}
   - RALT
   '1':
   - ESCAPE
@@ -174,9 +174,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
