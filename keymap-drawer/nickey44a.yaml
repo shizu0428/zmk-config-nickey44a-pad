@@ -44,7 +44,7 @@ layers:
   - '&mkp MB1'
   - BSPC
   - {t: ENTER, h: '3'}
-  - RALT
+  - LEFT WIN
   '1':
   - ESCAPE
   - '1'
