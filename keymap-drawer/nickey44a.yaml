@@ -23,7 +23,7 @@ layers:
   - J
   - K
   - L
-  - ;
+  - '-'
   - '-'
   - LSHFT
   - Z
@@ -39,9 +39,9 @@ layers:
   - .
   - /
   - '='
-  - '2'
-  - '1'
-  - SPACE
+  - {t: TAB, h: '1'}
+  - {t: SPACE, h: '2'}
+  - '&mkp MB1'
   - BSPC
   - RET
   - RALT
@@ -84,8 +84,8 @@ layers:
   - ']'
   - \
   - {t: ▽, type: trans}
-  - '3'
-  - {type: held}
+  - {t: '3', type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - DELETE
   - {t: ▽, type: trans}
@@ -129,8 +129,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
   - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -175,7 +175,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
