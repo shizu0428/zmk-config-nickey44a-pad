@@ -61,9 +61,9 @@ layers:
   - {t: ▽, type: trans}
   - '['
   - $
-  - F3
-  - F4
-  - F5
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - Sft+2
   - ']'
   - \
