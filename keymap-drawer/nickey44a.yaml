@@ -93,48 +93,48 @@ layers:
   '2':
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - F7
+  - F8
+  - F9
+  - F10
+  - Sft+7
+  - '7'
+  - '8'
+  - '9'
+  - Sft+=
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '?'
+  - F5
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '%'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '@'
-  - '#'
-  - $
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '!'
+  - F11
+  - Sft+*
+  - '4'
+  - '5'
+  - '6'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - F2
+  - {t: ▽, type: trans}
+  - F12
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '*'
-  - ^
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '&'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - /
+  - '1'
+  - '2'
+  - '3'
+  - ':'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '0'
   '3':
   - BT CLR
   - {t: BT, h: '0'}
