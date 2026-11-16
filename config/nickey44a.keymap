@@ -14,7 +14,24 @@
 };
 
 / {
-    combos { compatible = "zmk,combos"; };
+    combos {
+        compatible = "zmk,combos";
+
+        esc1 {
+            bindings = <&kp ESCAPE>;
+            key-positions = <1 2>;
+        };
+
+        win {
+            bindings = <&kp LEFT_WIN>;
+            key-positions = <16 15 14>;
+        };
+
+        del {
+            bindings = <&kp DELETE>;
+            key-positions = <10 9>;
+        };
+    };
 
     macros {
         to_layer_0: to_layer_0 {
