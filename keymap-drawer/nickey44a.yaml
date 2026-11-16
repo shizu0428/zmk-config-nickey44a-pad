@@ -180,3 +180,10 @@ layers:
   - LANGUAGE 1
   - {t: LANGUAGE 2, type: held}
   - {t: ▽, type: trans}
+combos:
+- p: [1, 2]
+  k: ESCAPE
+- p: [16, 15, 14]
+  k: LEFT WIN
+- p: [10, 9]
+  k: DELETE
