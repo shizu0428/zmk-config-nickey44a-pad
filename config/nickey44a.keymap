@@ -1,7 +1,6 @@
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/keys.h>
-#include <dt-bindings/zmk/pointing.h>
 
 &mt {
     flavor = "balanced";
@@ -68,10 +67,10 @@
 
         default_layer {
             bindings = <
-&kp TAB    &kp Q                 &kp W               &kp E                   &kp R                 &kp T                              &kp Y        &kp U                 &kp I                       &kp O                 &kp P      &kp SQT
-&kp LCTRL  &kp A                 &kp S               &kp D                   &kp F                 &kp G                              &kp H        &kp J                 &kp K                       &kp L                 &kp MINUS  &kp MINUS
-&kp LSHFT  &new_ht LEFT_SHIFT Z  &new_ht LEFT_ALT X  &new_ht LEFT_CONTROL C  &new_ht LEFT_SHIFT V  &kp B        &trans      &trans    &kp N        &new_ht LEFT_SHIFT M  &new_ht LEFT_CONTROL COMMA  &new_ht LEFT_ALT DOT  &kp FSLH   &kp EQUAL
-                                                                             &lt 1 TAB             &lt 2 SPACE  &mkp MB1    &kp BSPC  &lt 3 ENTER  &kp LEFT_WIN
+&kp TAB    &kp Q                 &kp W               &kp E                   &kp R                 &kp T                               &kp Y        &kp U                 &kp I                       &kp O                 &kp P      &kp SQT
+&kp LCTRL  &kp A                 &kp S               &kp D                   &kp F                 &kp G                               &kp H        &kp J                 &kp K                       &kp L                 &kp MINUS  &kp MINUS
+&kp LSHFT  &new_ht LEFT_SHIFT Z  &new_ht LEFT_ALT X  &new_ht LEFT_CONTROL C  &new_ht LEFT_SHIFT V  &kp B      &trans         &trans    &kp N        &new_ht LEFT_SHIFT M  &new_ht LEFT_CONTROL COMMA  &new_ht LEFT_ALT DOT  &kp FSLH   &kp EQUAL
+                                                                             &trans                &lt 1 TAB  &lt 2 SPACE    &kp BSPC  &lt 3 ENTER  &trans
             >;
         };
 
@@ -89,7 +88,7 @@
 &trans  &trans  &kp F7  &kp F8  &kp F9  &kp F10                    &kp LS(N7)        &kp N7        &kp N8        &kp N9        &kp LS(EQUAL)  &trans
 &trans  &trans  &trans  &kp F5  &trans  &kp F11                    &kp LS(ASTERISK)  &kp NUMBER_4  &kp N5        &kp NUMBER_6  &trans         &trans
 &trans  &trans  &trans  &kp F2  &trans  &kp F12  &trans    &trans  &kp SLASH         &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp COLON      &trans
-                                &trans  &trans   &trans    &trans  &trans            &kp N0
+                                &trans  &trans   &trans    &trans  &kp N0            &kp N0
             >;
         };
 
