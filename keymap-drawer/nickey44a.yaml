@@ -39,12 +39,12 @@ layers:
   - {t: ., h: LEFT ALT}
   - /
   - '='
+  - {t: ▽, type: trans}
   - {t: TAB, h: '1'}
   - {t: SPACE, h: '2'}
-  - '&mkp MB1'
   - BSPC
   - {t: ENTER, h: '3'}
-  - LEFT WIN
+  - {t: ▽, type: trans}
   '1':
   - {t: ▽, type: trans}
   - Sft+1
@@ -84,8 +84,8 @@ layers:
   - ']'
   - \
   - {t: ▽, type: trans}
-  - {type: held}
   - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - LANGUAGE 1
   - LANGUAGE 2
@@ -130,10 +130,10 @@ layers:
   - ':'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '0'
   - '0'
   '3':
   - BT CLR
