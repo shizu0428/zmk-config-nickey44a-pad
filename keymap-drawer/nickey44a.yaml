@@ -187,3 +187,5 @@ combos:
   k: LEFT WIN
 - p: [10, 9]
   k: DELETE
+- p: [16, 14]
+  k: '&mkp MB3'
