@@ -82,9 +82,9 @@
 
         layer_1 {
             bindings = <
-&trans  &kp LS(NUMBER_1)  &kp LS(SLASH)  &kp LS(NUMBER_3)  &kp LS(N5)  &kp LS(NUMBER_6)                            &kp LS(N7)        &kp LS(N8)            &kp LS(N9)             &trans             &kp PLUS       &trans
-&trans  &kp LEFT_BRACKET  &kp DOLLAR     &trans            &trans      &trans                                      &kp LS(NUMBER_2)  &kp RIGHT_BRACKET     &kp BACKSLASH          &kp SEMICOLON      &kp SQT        &trans
-&trans  &trans            &trans         &trans            &trans      &trans            &trans    &trans          &kp LEFT_BRACKET  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACKET  &kp BACKSLASH  &trans
+&trans  &kp LS(NUMBER_1)  &kp LS(SLASH)  &kp LS(NUMBER_3)  &kp LS(N5)  &kp LS(NUMBER_6)                            &kp LS(N7)        &kp LS(N8)         &kp LS(N9)     &trans         &kp PLUS                 &trans
+&trans  &kp LEFT_BRACKET  &kp DOLLAR     &trans            &trans      &trans                                      &kp LS(NUMBER_2)  &kp RIGHT_BRACKET  &kp BACKSLASH  &kp SEMICOLON  &kp SQT                  &trans
+&trans  &trans            &trans         &trans            &trans      &trans            &trans    &trans          &trans            &trans             &trans         &trans         &kp LS(INTERNATIONAL_1)  &trans
                                                            &trans      &trans            &trans    &kp LANGUAGE_1  &kp LANGUAGE_2    &trans
             >;
         };
