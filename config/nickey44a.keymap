@@ -100,10 +100,10 @@
 
         layer_3 {
             bindings = <
-&bt BT_CLR      &bt BT_SEL 0      &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                            &trans          &kp HOME  &kp UP_ARROW    &kp END    &trans  &trans
-&bt BT_CLR_ALL  &kp LEFT_BRACKET  &kp DOLLAR    &trans        &trans        &trans                                  &trans          &kp LEFT  &kp DOWN_ARROW  &kp RIGHT  &trans  &trans
-&studio_unlock  &bt BT_SEL 0      &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4  &trans    &trans          &trans          &trans    &trans          &trans     &trans  &trans
-                                                              &trans        &trans        &trans    &kp LANGUAGE_1  &kp LANGUAGE_2  &trans
+&bt BT_CLR      &kp LS(NUMBER_1)  &kp LS(SLASH)  &kp LS(NUMBER_3)  &kp LS(N5)    &kp LS(NUMBER_6)                            &trans          &kp HOME  &kp UP_ARROW    &kp END    &trans  &trans
+&bt BT_CLR_ALL  &kp LEFT_BRACKET  &kp DOLLAR     &trans            &trans        &trans                                      &trans          &kp LEFT  &kp DOWN_ARROW  &kp RIGHT  &trans  &trans
+&studio_unlock  &bt BT_SEL 0      &bt BT_SEL 1   &bt BT_SEL 2      &bt BT_SEL 3  &bt BT_SEL 4      &trans    &trans          &trans          &trans    &trans          &trans     &trans  &trans
+                                                                   &trans        &trans            &trans    &kp LANGUAGE_1  &kp LANGUAGE_2  &trans
             >;
         };
     };
