@@ -181,11 +181,11 @@ layers:
   - LANGUAGE 1
   - {t: LANGUAGE 2, type: held}
 combos:
-- p: [1, 2]
+- p: [1, 0]
   k: ESCAPE
-- p: [16, 15, 14]
+- p: [15, 14, 13]
   k: LEFT WIN
-- p: [10, 9]
+- p: [10, 11]
   k: DELETE
-- p: [16, 14]
+- p: [13, 15]
   k: '&mkp MB3'

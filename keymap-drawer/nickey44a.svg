@@ -319,27 +319,27 @@ path.combo {
 <text x="0" y="24" class="key hold layer-activator">3</text>
 </a></g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="98" y="15" width="28" height="26" class="combo"/>
-<text x="112" y="28" class="combo tap">ESCAPE</text>
+<rect rx="6" ry="6" x="42" y="15" width="28" height="26" class="combo"/>
+<text x="56" y="28" class="combo tap">ESCAPE</text>
 </g>
 <g class="combo combopos-1">
-<path d="M196,84 l37,0" class="combo"/>
-<path d="M196,84 l-37,0" class="combo"/>
-<rect rx="6" ry="6" x="182" y="71" width="28" height="26" class="combo"/>
-<text x="196" y="84" class="combo tap">
-<tspan x="196" dy="-0.6em">LEFT</tspan><tspan x="196" dy="1.2em">WIN</tspan>
+<path d="M140,84 l37,0" class="combo"/>
+<path d="M140,84 l-37,0" class="combo"/>
+<rect rx="6" ry="6" x="126" y="71" width="28" height="26" class="combo"/>
+<text x="140" y="84" class="combo tap">
+<tspan x="140" dy="-0.6em">LEFT</tspan><tspan x="140" dy="1.2em">WIN</tspan>
 </text>
 </g>
 <g class="combo combopos-2">
-<rect rx="6" ry="6" x="714" y="15" width="28" height="26" class="combo"/>
-<text x="728" y="28" class="combo tap">DELETE</text>
+<rect rx="6" ry="6" x="770" y="15" width="28" height="26" class="combo"/>
+<text x="784" y="28" class="combo tap">DELETE</text>
 </g>
 <g class="combo combopos-3">
-<path d="M196,84 l37,0" class="combo"/>
-<path d="M196,84 l-37,0" class="combo"/>
-<rect rx="6" ry="6" x="182" y="71" width="28" height="26" class="combo"/>
-<text x="196" y="84" class="combo tap">
-<tspan x="196" dy="-0.6em">&amp;mkp</tspan><tspan x="196" dy="1.2em">MB3</tspan>
+<path d="M140,84 l-37,0" class="combo"/>
+<path d="M140,84 l37,0" class="combo"/>
+<rect rx="6" ry="6" x="126" y="71" width="28" height="26" class="combo"/>
+<text x="140" y="84" class="combo tap">
+<tspan x="140" dy="-0.6em">&amp;mkp</tspan><tspan x="140" dy="1.2em">MB3</tspan>
 </text>
 </g>
 </g>
@@ -529,27 +529,27 @@ path.combo {
 </text>
 </g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="98" y="15" width="28" height="26" class="combo"/>
-<text x="112" y="28" class="combo tap">ESCAPE</text>
+<rect rx="6" ry="6" x="42" y="15" width="28" height="26" class="combo"/>
+<text x="56" y="28" class="combo tap">ESCAPE</text>
 </g>
 <g class="combo combopos-1">
-<path d="M196,84 l37,0" class="combo"/>
-<path d="M196,84 l-37,0" class="combo"/>
-<rect rx="6" ry="6" x="182" y="71" width="28" height="26" class="combo"/>
-<text x="196" y="84" class="combo tap">
-<tspan x="196" dy="-0.6em">LEFT</tspan><tspan x="196" dy="1.2em">WIN</tspan>
+<path d="M140,84 l37,0" class="combo"/>
+<path d="M140,84 l-37,0" class="combo"/>
+<rect rx="6" ry="6" x="126" y="71" width="28" height="26" class="combo"/>
+<text x="140" y="84" class="combo tap">
+<tspan x="140" dy="-0.6em">LEFT</tspan><tspan x="140" dy="1.2em">WIN</tspan>
 </text>
 </g>
 <g class="combo combopos-2">
-<rect rx="6" ry="6" x="714" y="15" width="28" height="26" class="combo"/>
-<text x="728" y="28" class="combo tap">DELETE</text>
+<rect rx="6" ry="6" x="770" y="15" width="28" height="26" class="combo"/>
+<text x="784" y="28" class="combo tap">DELETE</text>
 </g>
 <g class="combo combopos-3">
-<path d="M196,84 l37,0" class="combo"/>
-<path d="M196,84 l-37,0" class="combo"/>
-<rect rx="6" ry="6" x="182" y="71" width="28" height="26" class="combo"/>
-<text x="196" y="84" class="combo tap">
-<tspan x="196" dy="-0.6em">&amp;mkp</tspan><tspan x="196" dy="1.2em">MB3</tspan>
+<path d="M140,84 l-37,0" class="combo"/>
+<path d="M140,84 l37,0" class="combo"/>
+<rect rx="6" ry="6" x="126" y="71" width="28" height="26" class="combo"/>
+<text x="140" y="84" class="combo tap">
+<tspan x="140" dy="-0.6em">&amp;mkp</tspan><tspan x="140" dy="1.2em">MB3</tspan>
 </text>
 </g>
 </g>
@@ -736,27 +736,27 @@ path.combo {
 <text x="0" y="0" class="key tap">0</text>
 </g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="98" y="15" width="28" height="26" class="combo"/>
-<text x="112" y="28" class="combo tap">ESCAPE</text>
+<rect rx="6" ry="6" x="42" y="15" width="28" height="26" class="combo"/>
+<text x="56" y="28" class="combo tap">ESCAPE</text>
 </g>
 <g class="combo combopos-1">
-<path d="M196,84 l37,0" class="combo"/>
-<path d="M196,84 l-37,0" class="combo"/>
-<rect rx="6" ry="6" x="182" y="71" width="28" height="26" class="combo"/>
-<text x="196" y="84" class="combo tap">
-<tspan x="196" dy="-0.6em">LEFT</tspan><tspan x="196" dy="1.2em">WIN</tspan>
+<path d="M140,84 l37,0" class="combo"/>
+<path d="M140,84 l-37,0" class="combo"/>
+<rect rx="6" ry="6" x="126" y="71" width="28" height="26" class="combo"/>
+<text x="140" y="84" class="combo tap">
+<tspan x="140" dy="-0.6em">LEFT</tspan><tspan x="140" dy="1.2em">WIN</tspan>
 </text>
 </g>
 <g class="combo combopos-2">
-<rect rx="6" ry="6" x="714" y="15" width="28" height="26" class="combo"/>
-<text x="728" y="28" class="combo tap">DELETE</text>
+<rect rx="6" ry="6" x="770" y="15" width="28" height="26" class="combo"/>
+<text x="784" y="28" class="combo tap">DELETE</text>
 </g>
 <g class="combo combopos-3">
-<path d="M196,84 l37,0" class="combo"/>
-<path d="M196,84 l-37,0" class="combo"/>
-<rect rx="6" ry="6" x="182" y="71" width="28" height="26" class="combo"/>
-<text x="196" y="84" class="combo tap">
-<tspan x="196" dy="-0.6em">&amp;mkp</tspan><tspan x="196" dy="1.2em">MB3</tspan>
+<path d="M140,84 l-37,0" class="combo"/>
+<path d="M140,84 l37,0" class="combo"/>
+<rect rx="6" ry="6" x="126" y="71" width="28" height="26" class="combo"/>
+<text x="140" y="84" class="combo tap">
+<tspan x="140" dy="-0.6em">&amp;mkp</tspan><tspan x="140" dy="1.2em">MB3</tspan>
 </text>
 </g>
 </g>
@@ -952,27 +952,27 @@ path.combo {
 </text>
 </g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="98" y="15" width="28" height="26" class="combo"/>
-<text x="112" y="28" class="combo tap">ESCAPE</text>
+<rect rx="6" ry="6" x="42" y="15" width="28" height="26" class="combo"/>
+<text x="56" y="28" class="combo tap">ESCAPE</text>
 </g>
 <g class="combo combopos-1">
-<path d="M196,84 l37,0" class="combo"/>
-<path d="M196,84 l-37,0" class="combo"/>
-<rect rx="6" ry="6" x="182" y="71" width="28" height="26" class="combo"/>
-<text x="196" y="84" class="combo tap">
-<tspan x="196" dy="-0.6em">LEFT</tspan><tspan x="196" dy="1.2em">WIN</tspan>
+<path d="M140,84 l37,0" class="combo"/>
+<path d="M140,84 l-37,0" class="combo"/>
+<rect rx="6" ry="6" x="126" y="71" width="28" height="26" class="combo"/>
+<text x="140" y="84" class="combo tap">
+<tspan x="140" dy="-0.6em">LEFT</tspan><tspan x="140" dy="1.2em">WIN</tspan>
 </text>
 </g>
 <g class="combo combopos-2">
-<rect rx="6" ry="6" x="714" y="15" width="28" height="26" class="combo"/>
-<text x="728" y="28" class="combo tap">DELETE</text>
+<rect rx="6" ry="6" x="770" y="15" width="28" height="26" class="combo"/>
+<text x="784" y="28" class="combo tap">DELETE</text>
 </g>
 <g class="combo combopos-3">
-<path d="M196,84 l37,0" class="combo"/>
-<path d="M196,84 l-37,0" class="combo"/>
-<rect rx="6" ry="6" x="182" y="71" width="28" height="26" class="combo"/>
-<text x="196" y="84" class="combo tap">
-<tspan x="196" dy="-0.6em">&amp;mkp</tspan><tspan x="196" dy="1.2em">MB3</tspan>
+<path d="M140,84 l-37,0" class="combo"/>
+<path d="M140,84 l37,0" class="combo"/>
+<rect rx="6" ry="6" x="126" y="71" width="28" height="26" class="combo"/>
+<text x="140" y="84" class="combo tap">
+<tspan x="140" dy="-0.6em">&amp;mkp</tspan><tspan x="140" dy="1.2em">MB3</tspan>
 </text>
 </g>
 </g>
