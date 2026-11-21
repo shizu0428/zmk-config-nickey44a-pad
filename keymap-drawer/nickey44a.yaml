@@ -1,36 +1,37 @@
 layout: {zmk_keyboard: nickey44a}
 layers:
   default:
-  - TAB
   - Q
   - W
   - E
   - R
   - T
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - Y
   - U
   - I
   - O
   - P
-  - ''''
-  - LCTRL
   - A
   - S
   - D
   - F
   - G
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - H
   - J
   - K
   - L
   - '-'
-  - '-'
-  - LSHFT
-  - {t: Z, h: LEFT SHIFT}
+  - {t: Z, h: LSHFT}
   - {t: X, h: LEFT ALT}
   - {t: C, h: LEFT CONTROL}
   - {t: V, h: LEFT SHIFT}
   - B
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - N
@@ -38,29 +39,29 @@ layers:
   - {t: ',', h: LEFT CONTROL}
   - {t: ., h: LEFT ALT}
   - /
-  - '='
-  - {t: ▽, type: trans}
   - {t: TAB, h: '1'}
   - {t: SPACE, h: '2'}
-  - BSPC
+  - '&mkp MB1'
+  - {t: ▽, type: trans}
+  - BACKSPACE
   - {t: ENTER, h: '3'}
-  - {t: ▽, type: trans}
   '1':
-  - {t: ▽, type: trans}
   - Sft+1
   - Sft+/
   - Sft+3
   - Sft+5
   - Sft+6
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - Sft+7
   - Sft+8
   - Sft+9
   - {t: ▽, type: trans}
   - +
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - '['
   - $
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -83,38 +84,36 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - Sft+INTERNATIONAL 1
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - LANGUAGE 1
   - LANGUAGE 2
-  - {t: ▽, type: trans}
   '2':
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - F7
   - F8
   - F9
   - F10
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - Sft+7
   - '7'
   - '8'
   - '9'
-  - Sft+=
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Sft+-
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - F5
   - {t: ▽, type: trans}
   - F11
-  - Sft+*
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - Sft+'
   - '4'
   - '5'
   - '6'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -123,49 +122,51 @@ layers:
   - F12
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - /
   - '1'
   - '2'
   - '3'
   - ':'
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
-  - '0'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - '0'
   '3':
-  - BT CLR
   - Sft+1
   - Sft+/
   - Sft+3
   - Sft+5
   - Sft+6
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - HOME
-  - UP ARROW
+  - UP
   - END
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - BT CLR ALL
   - '['
   - $
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - LEFT
-  - DOWN ARROW
-  - RIGHT
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - LEFT
+  - DOWN
+  - RIGHT
   - {t: ▽, type: trans}
   - '&studio_unlock'
   - {t: BT, h: '0'}
   - {t: BT, h: '1'}
   - {t: BT, h: '2'}
   - {t: BT, h: '3'}
-  - {t: BT, h: '4'}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -179,7 +180,6 @@ layers:
   - {t: ▽, type: trans}
   - LANGUAGE 1
   - {t: LANGUAGE 2, type: held}
-  - {t: ▽, type: trans}
 combos:
 - p: [1, 2]
   k: ESCAPE
