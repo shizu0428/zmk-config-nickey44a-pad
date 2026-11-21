@@ -19,22 +19,22 @@
 
         esc1 {
             bindings = <&kp ESCAPE>;
-            key-positions = <1 2>;
+            key-positions = <1 0>;
         };
 
         win {
             bindings = <&kp LEFT_WIN>;
-            key-positions = <16 15 14>;
+            key-positions = <15 14 13>;
         };
 
         del {
             bindings = <&kp DELETE>;
-            key-positions = <10 9>;
+            key-positions = <10 11>;
         };
 
         mb3 {
             bindings = <&mkp MB3>;
-            key-positions = <16 14>;
+            key-positions = <13 15>;
         };
     };
 
